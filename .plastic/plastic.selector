@@ -1,0 +1,4 @@
+repository "HuaShen@ssl://wechat_os_qy012w_ag8zoh5uiac4hgvru0@sh02-plasticscm.unity.cn:8787"
+  path "/"
+    br "/main"
+    co "/main"
